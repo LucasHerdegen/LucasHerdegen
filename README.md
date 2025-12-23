@@ -21,12 +21,3 @@ Actualmente estoy profundizando en arquitectura de software y expandiendo mis ha
 **Aprendiendo actualmente:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasherdegen&show_icons=true&theme=radical&hide_border=true" height="150" alt="Lucas Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasherdegen&layout=compact&theme=radical&hide_border=true" height="150" alt="Lucas Langs" />
-</div>
